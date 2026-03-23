@@ -1,10 +1,3 @@
-vless://d9a83363-40a6-4a21-9dbe-cb2b7d287048@104.26.15.21:443?path=%2F107.174.121.122%3D443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=afrcloud22.mmv.kr#
-vless://e09166b0-e530-4240-c65c-82c21ead78a0@91.192.160.5:38916?encryption=none&security=none&type=ws&path=%2F#
-vless://f66f2e73-da63-4066-93df-45bc5ca9a762@s3.333ina.ir:2086?encryption=none&security=none&type=ws&host=bmi.ir&path=%2F#
-vless://f967c0d8-a49a-4ad1-96f0-d7e08b9de1a7@45.90.74.46:443?encryption=none&security=reality&sni=aparat.com&fp=chrome&pbk=Lux-sMwNN6HLjuKigLQSLtThCAK-LeEu9fRuxcxu4RE&sid=a9&spx=%2F&type=tcp&headerType=none#
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.80.221:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#
-vless://1adafbd3-ebbf-47c1-aae8-0be26ca7b61d@185.143.233.5:80?encryption=none&security=none&type=ws&host=dulphin333-90331252af-viv.apps.ir-central1.arvancaas.ir&path=%2Fgraphql%3Fed%3D30#
-vless://3ea585f1-0208-49e7-9e94-3ff7634e045c@freak.gexar.top:30107?encryption=none&security=none&type=tcp&headerType=none#
 vless://4cbd1d70-1341-4e23-b2d5-64254318c783@file4.farsgame.sbs:55004?encryption=none&security=none&type=ws&host=rubika.ir&path=%2F#
 vless://510e2c1c-5178-4c1b-9181-ec35aa09928e@vid6.persiangame.sbs:55006?encryption=none&security=none&type=ws&host=rubika.ir&path=%2F#
 vless://5cc82fdd-847a-4b11-9f91-3d8f35ff9e09@farzandeiran.iransalar.top:21531?encryption=none&security=none&type=tcp&headerType=none#
@@ -47,7 +40,12 @@ vless://8dcb7893-9191-4c71-b92a-4c3e52142030@vip.younetwork.ir:20900?type=tcp&en
 vless://e4e3cf77-6545-57ce-7d7d-31128c5c2b4b@tunn.vpsino.com:2087?security=none&type=tcp&headerType=none&path=%2F#
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.159.140.89:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#
 vless://c1e4b6e9-71ac-4e41-992a-c1bdb0d0654a@n4.zeneco.ir:4090?security=none&encryption=none&headerType=none&type=tcp#
-vless://a77c4ad0-8934-4ff8-a67d-e97769150d80@37.152.179.252:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.digikala.com&fp=chrome&pbk=8yHuzZK-w0BKPDvvbKC5-bmMb5mTYCP300N30XGulzM&sid=768ef2dd2dd43b00&spx=%2F&type=tcp&headerType=none#%E2%9A%A1Arima
+vless://6b79d1b5-6b19-4948-a012-f5bd29746511@emg4.saipasamandemg4.sbs:2004/?security=&encryption=none&host=anten.ir&headerType=http&type=tcp#
+vless://b74cd0fd-fb4c-4cda-9efe-ef383f88af7c@193.242.125.155:53646?security=none&encryption=none&headerType=none&type=tcp#
+vless://ec7a1b53-cf81-416a-93b7-ef91fd02b9f4@mellat.vhuma.com:443?security=none&encryption=none&host=bama.ir&headerType=http&type=tcp#
+vless://5c57e733-06fb-4ac5-d672-b6823f782577@79.175.136.84:47266?security=none&encryption=none&headerType=none&type=tcp#
+vless://94986991-74c7-4c8b-acf2-90992059e7f1@jsbsh_jsjsbdixsjsvsjvdj_dhdjdjdkjbsj_b.d2centeerr.sbs:27208?security=none&encryption=none&headerType=none&type=tcp#
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.186.179:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#
 vless://24108840-6ae5-4700-b6a4-3cc52c99fa23@aa.blue-world.fun:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40sunflowerplato%F0%9F%8C%BB
 vless://717ef882-1c29-11f1-9350-92000723b4ab@dlc-new3.persianpinggame.com:5103?security=none&encryption=none&host=filmnet.ir&headerType=http&type=tcp#%40sunflowerplato%F0%9F%8C%BB
 vless://3e6873e5-905e-4316-a136-3ee276f011c4@fin-tun.a1mshop2.xyz:12000?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#%40sunflowerplato%F0%9F%8C%BB
